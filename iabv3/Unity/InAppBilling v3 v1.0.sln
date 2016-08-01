@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{0FA7DA1C-9B8D-1FF5-D783-2017160E8474}") = "InAppBilling v3 v1.0", "Assembly-CSharp.csproj", "{8D23C3DA-B507-6D7E-B480-360ED78DE6B1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8D23C3DA-B507-6D7E-B480-360ED78DE6B1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8D23C3DA-B507-6D7E-B480-360ED78DE6B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8D23C3DA-B507-6D7E-B480-360ED78DE6B1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8D23C3DA-B507-6D7E-B480-360ED78DE6B1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
